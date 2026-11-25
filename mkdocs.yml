@@ -3,9 +3,8 @@ theme:
 name: Material
 nav:
 - Inicio: index.md
-- Caracterizacion: caracterizacion.md
-- 01. Presentacion: 01 - presentacion.md
-- 02. caracterizacion: 02- caracterizacion.md
+- 01. Presentacion: 01-presentacion.md
+- 02. caracterizacion: 02-caracterizacion.md
 - 03. analisis-requisitos: 03-analisis-requisitos.md
 - 04. diseno-solucion: 04-diseno-solucion.md
 - 05. planificacion: 05-planificacion.md
